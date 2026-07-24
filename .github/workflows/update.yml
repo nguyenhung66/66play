@@ -1,11 +1,42 @@
-name: Test Workflow
+name: Update IPTV Playlist
 
 on:
+  schedule:
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  test:
+  update:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Hello
-        run: echo "GitHub Actions hoạt động!"
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install packages
+        run: |
+          pip install -r requirements.txt
+
+      - name: Generate playlist
+        run: |
+          python scraper.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add playlist.m3u
+
+          git diff --cached --quiet || (
+            git commit -m "Auto update playlist"
+            git push
+          )
