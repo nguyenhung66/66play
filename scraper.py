@@ -5,6 +5,8 @@ import requests
 from bs4 import BeautifulSoup
 
 URL = "https://phaohoa1.live/"
+URL = "https://tinhlagi.pro/sport/"
+
 
 headers = {
     "User-Agent": "Mozilla/5.0"
