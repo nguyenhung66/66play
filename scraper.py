@@ -4,7 +4,7 @@ from html import unescape
 import requests
 from bs4 import BeautifulSoup
 
-URL = "https://tinhlagi.pro/sport/"
+URL = "https://phaohoa1.live/"
 
 headers = {
     "User-Agent": "Mozilla/5.0"
