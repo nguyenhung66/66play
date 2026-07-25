@@ -1,15 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="IMT Novi Beograd vs Zemun",IMT Novi Beograd vs Zemun
-https://tinhlagi.pro/sport/proxy.php?hash=4e33e92b08e9ee9396444127c7f0e88f82bbf921e7d9baa201a535322d1f2541&referer=https%3A%2F%2Fluongson171.pro%2F&url=https%3A%2F%2Fhls.cdnfaster-a.live%2Flive%2FLIO%2Findex.m3u8%3Fexpire%3D1923141900%26sign%3Dfff7ab29620de2a54fba04f5f3ca246a
-#EXTINF:-1 tvg-name="Brno vs AC Sparta Prague",Brno vs AC Sparta Prague
-https://tinhlagi.pro/sport/proxy.php?hash=5dc8c0be01dd3cdad60ed6c9fbc066321593ad76425c93e34735e26e0a545f08&referer=https%3A%2F%2Fluongson171.pro%2F&url=https%3A%2F%2Fhls.cdnfaster-a.live%2Flive%2FTAOTHAO%2Findex.m3u8%3Fexpire%3D1917964380%26sign%3D6379fc6251248341f0547089859f8ee9
-#EXTINF:-1 tvg-name="Spartak Moscow vs Rodina Moscow" tvg-logo="https://cdn-img.cdnokvip.com/logos/3493_1gtzd4kmq67.png" group-title="Russia Premier League",Spartak Moscow vs Rodina Moscow
-https://tinhlagi.pro/sport/proxy.php?hash=51af3eaa2b3fb822c9effbac89d040312b20e8c61a863a1ada2c82243e6380ea&referer=https%3A%2F%2Fluongson171.pro%2F&url=https%3A%2F%2Fhls.cdnfaster-a.live%2Flive%2FLYUNG1%2Findex.m3u8%3Fexpire%3D1788427256%26sign%3Dd5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 tvg-name="Luzern vs Thun" tvg-logo="https://cdn-img.cdnokvip.com/logos/3493_1gtzd4kmq67.png" group-title="Switzerland Super League",Luzern vs Thun
-https://tinhlagi.pro/sport/proxy.php?hash=72cccdf3040be27dda6bb90ebee41c4a8d4137a3967fdbe5114c9c795b4adcae&referer=https%3A%2F%2Fluongson171.pro%2F&url=https%3A%2F%2Fhls.cdnfaster-a.live%2Flive%2FLEO%2Findex.m3u8%3Fexpire%3D1923642660%26sign%3D58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 tvg-name="Lokomotiv Sofia vs Levski Sofia" tvg-logo="https://cdn-img.cdnokvip.com/logos/3493_1gtzd4kmq67.png" group-title="Bulgaria Premier League",Lokomotiv Sofia vs Levski Sofia
-https://tinhlagi.pro/sport/proxy.php?hash=a19b9f58b0637c877a4b213e5657c040608c6889795114758abef337c2b169bd&referer=https%3A%2F%2Fluongson171.pro%2F&url=https%3A%2F%2Fhls.cdnfaster-a.live%2Flive%2FTONLAP%2Findex.m3u8%3Fexpire%3D1788427256%26sign%3D72cc58a29d787d621b0832b54e1a78df
-#EXTINF:-1 tvg-name="Lech Poznan vs Cracovia Krakow" tvg-logo="https://cdn-img.cdnokvip.com/logos/3493_1gtzd4kmq67.png" group-title="Poland Ekstraklasa",Lech Poznan vs Cracovia Krakow
-https://tinhlagi.pro/sport/proxy.php?hash=8ab6b393914d39a4318fd3cd7216772e84296b745f045b33694bf6a67c6bf56a&referer=https%3A%2F%2Fluongson171.pro%2F&url=https%3A%2F%2Fhls.cdnfaster-a.live%2Flive%2FHEINEKEN%2Findex.m3u8%3Fexpire%3D2530639860%26sign%3D03a2e74c3447f79f8c6e80a8fa2ee0b6
-#EXTINF:-1 group-title="Premier League",Porto vs Villa | 02:00
-https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
