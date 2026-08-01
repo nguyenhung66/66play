@@ -518,28 +518,64 @@ udp://@225.1.1.139:30120
 #EXTM3U
 #EXTINF:-1 tvg-id="1562525" tvg-name="UK: TNT SPORT 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?72541" group-title="TNT SPORT" tvg-chno="2608",UK: TNT SPORT 1 ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA4941751279196C6A7EECE5655DF3F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562525&extension=ts&play_token=RIx7sDMZpG
 #EXTINF:-1 tvg-id="1562524" tvg-name="UK: TNT SPORT 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?49620" group-title="TNT SPORT" tvg-chno="2609",UK: TNT SPORT 2 ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA4941751279196C6A7EECE5655DF3F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562524&extension=ts&play_token=cFgEUq0Xgj
 #EXTINF:-1 tvg-id="1562523" tvg-name="UK: TNT SPORT 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?44286" group-title="TNT SPORT" tvg-chno="2610",UK: TNT SPORT 3 ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA4941751279196C6A7EECE5655DF3F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562523&extension=ts&play_token=hIJYkOskef
 #EXTINF:-1 tvg-id="1562522" tvg-name="UK: TNT SPORT 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?29642" group-title="TNT SPORT" tvg-chno="2611",UK: TNT SPORT 4 ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA4941751279196C6A7EECE5655DF3F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1562522&extension=ts&play_token=1uHST5cod9
 #EXTINF:-1 tvg-id="1527617" tvg-name="NOW: TNT SPORT 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?83895" group-title="TNT SPORT" tvg-chno="4577",NOW: TNT SPORT 1 ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA4941751279196C6A7EECE5655DF3F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1527617&extension=ts&play_token=2QEQ8eIojw
 #EXTINF:-1 tvg-id="1527616" tvg-name="NOW: TNT SPORT 1 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?83895" group-title="TNT SPORT" tvg-chno="4578",NOW: TNT SPORT 1 ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA4941751279196C6A7EECE5655DF3F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1527616&extension=ts&play_token=JDOBYry0hK
 #EXTINF:-1 tvg-id="1527615" tvg-name="NOW: TNT SPORT 2 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?12810" group-title="TNT SPORT" tvg-chno="4579",NOW: TNT SPORT 2 ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA4941751279196C6A7EECE5655DF3F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1527615&extension=ts&play_token=uGQ0wPsJ2Z
 #EXTINF:-1 tvg-id="1527614" tvg-name="NOW: TNT SPORT 2 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?12810" group-title="TNT SPORT" tvg-chno="4580",NOW: TNT SPORT 2 ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA4941751279196C6A7EECE5655DF3F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1527614&extension=ts&play_token=k3Wg0gAron
 #EXTINF:-1 tvg-id="1527613" tvg-name="NOW: TNT SPORT 3 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?25220" group-title="TNT SPORT" tvg-chno="4581",NOW: TNT SPORT 3 ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA4941751279196C6A7EECE5655DF3F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1527613&extension=ts&play_token=N4GqwZNEMx
 #EXTINF:-1 tvg-id="1527612" tvg-name="NOW: TNT SPORT 3 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?25220" group-title="TNT SPORT" tvg-chno="4582",NOW: TNT SPORT 3 ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA4941751279196C6A7EECE5655DF3F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1527612&extension=ts&play_token=U0zT6lKccd
 #EXTINF:-1 tvg-id="1527611" tvg-name="NOW: TNT SPORTS 4 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?65829" group-title="TNT SPORT" tvg-chno="4583",NOW: TNT SPORTS 4 ᴿᴬᵂ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA4941751279196C6A7EECE5655DF3F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1527611&extension=ts&play_token=i1fVELMv9j
 #EXTINF:-1 tvg-id="1527610" tvg-name="NOW: TNT SPORTS 4 ᴴᴰ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?65829" group-title="TNT SPORT" tvg-chno="4584",NOW: TNT SPORTS 4 ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:C1:AF:02; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer AA4941751279196C6A7EECE5655DF3F5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:C1:AF:02&stream=1527610&extension=ts&play_token=DyJwWmpNuo
 #-------------------Ziggo Sport-------------------#
 #EXTM3U
 #EXTINF:-1 tvg-id="1562707" tvg-name="NL: ZIGGO SPORT 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/602.png?37284" group-title="ZIGGO SPORT" tvg-chno="2891",NL: ZIGGO SPORT 1 ᴿᴬᵂ
