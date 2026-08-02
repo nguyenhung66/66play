@@ -237,7 +237,7 @@ udp://@225.1.1.35:30120
 udp://@225.1.1.37:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",Event 13
 udp://@225.1.1.38:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",FPT 4K - Nguyen Hung
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",4K - 66 Play
 udp://@225.1.1.48:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",Event 14
 udp://@225.1.1.49:30120
