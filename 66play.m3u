@@ -241,7 +241,7 @@ udp://@225.1.1.38:30120
 udp://@225.1.1.48:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",Event 14
 udp://@225.1.1.49:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",Event 15
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",E-Sports
 udp://@225.1.1.50:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",Event 16
 udp://@225.1.1.51:30120
