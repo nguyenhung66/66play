@@ -576,6 +576,28 @@ udp://@225.1.1.236:30120
 udp://@225.1.1.200:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 udp://@225.1.1.139:30120
+
+#-------------------Phao Hoa TV-------------------#
+#EXTINF:-1 group-title="🔴Pháo Hoa TV - 66 Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/cd792acbe0f5b3ec9d182e99fa319b09d94268eb/Logo%20K%C3%AAnh/PhaohoaTV/Phaohoatv.jpg",BLV KaKa
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+
+#EXTINF:-1 group-title="🔴Pháo Hoa TV - 66 Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/cd792acbe0f5b3ec9d182e99fa319b09d94268eb/Logo%20K%C3%AAnh/PhaohoaTV/Phaohoatv.jpg",BLV Chim Nhỏ
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
+
+#EXTINF:-1 group-title="🔴Pháo Hoa TV - 66 Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/cd792acbe0f5b3ec9d182e99fa319b09d94268eb/Logo%20K%C3%AAnh/PhaohoaTV/Phaohoatv.jpg",BLV Dế Lửa
+https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
+
+#EXTINF:-1 group-title="🔴Pháo Hoa TV - 66 Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/cd792acbe0f5b3ec9d182e99fa319b09d94268eb/Logo%20K%C3%AAnh/PhaohoaTV/Phaohoatv.jpg",BLV Kevin
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+
+#EXTINF:-1 group-title="🔴Pháo Hoa TV - 66 Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/cd792acbe0f5b3ec9d182e99fa319b09d94268eb/Logo%20K%C3%AAnh/PhaohoaTV/Phaohoatv.jpg",BLV Văn Minh
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
+
+#EXTINF:-1 group-title="🔴Pháo Hoa TV - 66 Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/cd792acbe0f5b3ec9d182e99fa319b09d94268eb/Logo%20K%C3%AAnh/PhaohoaTV/Phaohoatv.jpg",BLV Pháo Thủ
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+
+#EXTINF:-1 group-title="🔴Pháo Hoa TV - 66 Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/cd792acbe0f5b3ec9d182e99fa319b09d94268eb/Logo%20K%C3%AAnh/PhaohoaTV/Phaohoatv.jpg",BLV Ken
+https://luong.phaohoa.live/live/phaohoa/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #-------------------TNT Sport-------------------#
 #EXTM3U
 #EXTINF:-1 tvg-id="1562525" tvg-name="UK: TNT SPORT 1 ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?72541" group-title="TNT SPORT" tvg-chno="2608",UK: TNT SPORT 1 ᴿᴬᵂ
