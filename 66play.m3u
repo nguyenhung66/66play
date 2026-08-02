@@ -176,7 +176,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel
 #-------------------VTVPrime-------------------#
 #EXTM3U
-#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/43d39a995a643f0fecc3af24882427932d0fa9ae/Logo%20K%C3%AAnh/VTVPrime/VTVPrime.jpg", VTVPrime 1
+#EXTINF:-1 group-title="VTVPrime" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/43d39a995a643f0fecc3af24882427932d0fa9ae/Logo%20K%C3%AAnh/VTVPrime/VTVPrime.jpg",Football - 66 Play
 https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
 #EXTINF:-1 group-title="VTVPrime" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/43d39a995a643f0fecc3af24882427932d0fa9ae/Logo%20K%C3%AAnh/VTVPrime/VTVPrime.jpg", VTVPrime 2
 https://liveh12vng.vtvprime.vn/hls/ONSPORT2/04.m3u8
@@ -204,6 +204,8 @@ https://liveh12vng.vtvprime.vn/hls/ONSPORT10/04.m3u8
 https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd từ Tiếng Anh
 #-------------------FPT Play-------------------#
 #EXTM3U
+#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",4K - 66 Play
+udp://@225.1.1.48:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",Event 1
 udp://@225.1.1.10:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",Event 2
@@ -230,8 +232,6 @@ udp://@225.1.1.35:30120
 udp://@225.1.1.37:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",Event 13
 udp://@225.1.1.38:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",4K - 66 Play
-udp://@225.1.1.48:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",Event 14
 udp://@225.1.1.49:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/3f41a60753e31cecf8fe362944fb0e69b46ebed8/Logo%20K%C3%AAnh/FPT%20Play/FPTPlay.jpg",E-Sports
