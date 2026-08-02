@@ -15,12 +15,13 @@ udp://@225.1.1.165:30120
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="Thể Thao Chuyên Biệt" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/8ab6e63d5b5d19f18f01563eaf5bb5c229d189bf/Logo%20K%C3%AAnh/HTV/HTVTT.jpg",HTV Thể Thao Mobile
 https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:-1 tvg-id="onsportsplus" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/8ab6e63d5b5d19f18f01563eaf5bb5c229d189bf/Logo%20K%C3%AAnh/VTVcab/Sportsplus.jpg", ON SPORTS+ 
+#EXTINF:-1 tvg-id="onsports" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/8ab6e63d5b5d19f18f01563eaf5bb5c229d189bf/Logo%20K%C3%AAnh/VTVcab/Sports.jpg", ON SPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
-https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="Thể Thao Chuyên Biệt" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/8ab6e63d5b5d19f18f01563eaf5bb5c229d189bf/Logo%20K%C3%AAnh/VTVcab/Sportsplus.jpg", ON SPORTS+ 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
