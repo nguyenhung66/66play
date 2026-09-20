@@ -600,6 +600,9 @@ udp://@225.1.1.200:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/6521ec8c9e2bfe2076d7a80d39a441fbd77df7b0/Logo%20K%C3%AAnh/Quoc%20Te/WBTV.jpg",WB TV
 udp://@225.1.1.139:30120
 
+#EXTINF:-1 group-title="🔴GA VANG 33 - 66 Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/cd792acbe0f5b3ec9d182e99fa319b09d94268eb/Logo%20K%C3%AAnh/PhaohoaTV/Phaohoatv.jpg",Man City
+https://live2.zktsva.app/live/294335.m3u8
+
 #-------------------Phao Hoa TV-------------------#
 #EXTINF:-1 group-title="🔴Pháo Hoa TV - 66 Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/cd792acbe0f5b3ec9d182e99fa319b09d94268eb/Logo%20K%C3%AAnh/PhaohoaTV/Phaohoatv.jpg",BLV KaKa
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
