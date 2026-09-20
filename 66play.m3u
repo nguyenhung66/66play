@@ -600,6 +600,9 @@ udp://@225.1.1.200:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/6521ec8c9e2bfe2076d7a80d39a441fbd77df7b0/Logo%20K%C3%AAnh/Quoc%20Te/WBTV.jpg",WB TV
 udp://@225.1.1.139:30120
 
+#EXTINF:-1 group-title="🔴GA VANG 33 - 66 Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/cd792acbe0f5b3ec9d182e99fa319b09d94268eb/Logo%20K%C3%AAnh/PhaohoaTV/Phaohoatv.jpg", BLV Ga Sieu Quy
+https://live2.zktsva.app/live/304565.m3u8
+
 #EXTINF:-1 group-title="🔴GA VANG 33 - 66 Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/cd792acbe0f5b3ec9d182e99fa319b09d94268eb/Logo%20K%C3%AAnh/PhaohoaTV/Phaohoatv.jpg",Man City
 https://live2.zktsva.app/live/294335.m3u8
 
@@ -650,7 +653,7 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
 
 #EXTINF:-1 group-title="🔴Chuối Chiên TV - 66 Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/6713fdb5e16d7527d21d6c67c933e79472aac159/Logo%20K%C3%AAnh/Chu%E1%BB%91i%20Chi%C3%AAn%20TV/ChuoiChienTV.jpg",BLV A Ngao
-https://tfzg4go3nhcjtghzdrpbsfah1435dpptuypj1gwzgk3d8cissn6ddctzy.100ycdn.com/gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8?wsSession=3d32700e5ff32a0158c80553-178990158809705&wsIPSercert=c7d36f4a9f68cb93b2669a8a61243044&wsBindIP=2&wsserid=1168270624945969133
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴Chuối Chiên TV - 66 Play" tvg-logo="https://raw.githubusercontent.com/nguyenhung66/66play/6713fdb5e16d7527d21d6c67c933e79472aac159/Logo%20K%C3%AAnh/Chu%E1%BB%91i%20Chi%C3%AAn%20TV/ChuoiChienTV.jpg",BLV Chuối Tiêu
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
